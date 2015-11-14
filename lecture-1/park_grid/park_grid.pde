@@ -32,4 +32,4 @@ image(image9, 200, 200, 100, 100);
  
 // Save a screen shot to the sketch folder
  
-saveFrame("output/park_grid.jpg");
+saveFrame("park_grid.jpg");
