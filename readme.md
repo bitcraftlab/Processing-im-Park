@@ -14,6 +14,5 @@ Find the homepage [here](http://www.uni-weimar.de/medien/wiki/GMU:Processing_im_
 
 ## License 
 
-All code snippets licensed under [LGPL v 2.1](http://www.gnu.de/documents/lgpl-2.1.en.html) or later.
-
-
+All code snippets licensed under the MIT License.  
+All pictures include in the repo are CC-BY-NC.
