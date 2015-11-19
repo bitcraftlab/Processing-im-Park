@@ -2,8 +2,8 @@
 // STRIPE COLLAGE 4
 
 // Improved version of the stripe collage sketch:
-// 1. Using several images for the collage
-// 2. Take the dimensions of the images into account
+// 1. Loading images from a folder
+// 2. Improved interaction
 
 ///// PARAMETERS /////
 
