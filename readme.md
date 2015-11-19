@@ -11,6 +11,7 @@ Find the homepage [here](http://www.uni-weimar.de/medien/wiki/GMU:Processing_im_
 |-------------------------|--------------------------------------------------|-------------------|
 | Image Basics            | [Working with Images](lecture-01)                | 22. October 2015  |
 |                         | [Cut-Ups, Pixels, Stripes, Collages](lecture-02) | 29. October 2015  |
+|                         | [Overlays and Outlines](lecture-03)              | 19. November 2015 |
 
 ## License 
 
